@@ -1,0 +1,64 @@
+Personagens
+
+BONE
+Personagem principal da trama.
+Faz uso de armas de fogo para derrotar inimigos que tentam impedi-lo em sua busca por Apollo.
+
+MORCEGO
+Faz parte do conjunto de inimigos de Ar.
+Reside no mapa Chamas da Alma, nas tocas que crescem nas paredes.
+Controlado pelo Boss, teve sua genética modificada pelo mesmo. Possibilitado ao uso de armas de fogo.
+Três disparos são necessários para retê-lo.
+
+ZOMBIE
+Faz parte do conjunto de inimigos Terrestres.
+Reside no mapa Floresta Sombria, nascido das lápides.
+Invocado pelo Boss, ataca diretamente o alvo.
+Dois disparos são necessários para retê-lo.
+
+FANTASMA
+Faz parte do conjunto de inimigos Terrestres.
+Reside no mapa Floresta Sombria, conhecido por ser um espírito da noite.
+Invocado pelo Boss, ataca o alvo em contato direto.
+Incapaz de ser visto a olho nu. Não é possível retê-lo.
+
+ESCORPIÃO
+Faz parte do conjunto de inimigos Terrestres.
+Reside no mapa Deserto da Loucura, saindo por de baixo das rochas.
+Controlado pelo Boss, ataca diretamente o alvo.
+Um disparo é necessário para retê-lo.
+
+
+
+
+
+Cenário
+
+PORTAL
+Abertura mágica que encaminha o personagem principal para outros mapas.
+Criado por Apollo para ajudar Bone durante sua procura.
+Contém em todos os mapas do jogo.
+
+BOLA DE FOGO
+Partícula muito destrutiva, capaz de queimar tudo que toca.
+Encontrada no mapa Chamas da Alma, tendo como objetivo impedir o prosseguimento de Bone.
+
+MOEDAS
+Meio de troca para a compra de vidas.
+Precisa-se de 10 moedas para conseguir 1 vida.
+Quando derrotados, todos os inimigos podem dropar moedas.
+Encontrada em todos os mapas do jogo.
+
+BAÚ
+Objeto utilizado para guardar utensílios mágicos e poderosos, como Botas Espaciais e o Colar Mágico.
+Encontrado nos mapas Floresta Sombria e Deserto da Loucura.
+
+VIDAS
+Estado de atividade extremamente importante. Requer atenção.
+Graças aos poderes de Apollo, Bone pode fazer uso de mais de uma vida, assim aumentando suas chances.
+O número máximo de vidas permitidas é 4.
+
+ESPINHOS
+Estruturas pontiagudas de condição assassina, crescendo do chão como facas.
+Encontrado no mapa Deserto da Loucura.
+Podem conter até 6 pontas.

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="stylejogo.css" media="screen" />
+    <title>Como Jogar</title>
+    <link rel="controle icon" href="imagem_como_jogar/controle_icone.png">
+</head>
+<body>
+
+    <section class="comeco">
+        <header class="cabecalho">
+               
+          <nav class="cabecalho_menu">
+              
+              <a class="cabecalho_menu_item"  href="page.html">Página Inicial</a>
+          <hr class="linha_cabecalho">
+              <a class="cabecalho_menu_item" href="./como_jogar/como_jogar.html">Como Jogar</a>
+          <hr class="linha_cabecalho">
+              <a class="cabecalho_menu_item"  href="https://gxc.gg/pt-br/games/75xx63/tcc/tracks/e0415420-a14d-4593-9760-29051e27393e/" target="_blank" rel="noopener noreferrer">Jogar</a>
+          <hr class="linha_cabecalho">    
+              <a class="cabecalho_menu_item" href="./codigo_fonte/codigo_fonte.html" target="_blank" rel="noopener noreferrer">Código Fonte</a>
+            </nav>
+          
+          </header>
+      
+          <a href="page.html"><img class="logo_imagem" src="imagem_como_jogar/LOGO_JOOJ.png" alt="Logo" ></a>
+        </section>
+      
+                  <div id="fundo_pesquisa">
+                      <div id="pesquisa_border">
+                        
+               <div id="divBusca">
+                        <input search="animals" type="text" id="txtBusca" placeholder="Pesquisar..." list="list-language"/>
+                        <!--<img class="lupa_icone" src="imagem/lupa.png" id="btnBusca" alt="Buscar"/>!-->
+                      </div>
+              
+                     <nav class="pesquisa">
+                      <ul id="animals">
+                        <li nome="sobre"><a class="link_bone" href="historia/historia.html">Sobre</a></li>
+                        <li nome="Bone"><a class="link_bone" href="personagens_jogo/personagem1.html">Bone</a></li>
+                        <li nome="Controles"><a class="link_bone" href="como_jogar/como_jogar.html">Controles</a></li>
+                        <li nome="gato"><a class="link_bone" href="url">gato</a></li>
+                        <li nome="passaro"><a class="link_bone" href="url">passaro</a></li>
+                        <li nome="peixe"><a class="link_bone" href="url">peixe</a></li>
+                        <li nome="tigre"><a class="link_bone" href="url">tigre</a></li>
+                        <li nome="aranha"><a class="link_bone" href="url">aranha</a></li>
+                        <li nome="urso"><a class="link_bone" href="url">urso</a></li>
+                        <li nome="sapo"><a class="link_bone" href="url">sapo</a></li>
+                        <li nome="rato"><a class="link_bone" href="url">rato</a></li>
+                        <li nome="tartaruga"><a class="link_bone" href="url">tartaruga</a></li>
+                        <li nome="mico"><a class="link_bone" href="url">mico</a></li>
+                        <li nome="furao"><a class="link_bone" href="url">furao</a></li>
+                        <li nome="chinchila"><a class="link_bone" href="url">chinchila</a></li>
+                        <li nome="esquilo"><a class="link_bone" href="url">esquilo</a></li>
+                      </ul>
+                    </nav>
+                  </div>
+                    </div>
+      
+                    <main class="conteudo">
+      
+          <div class="fundo">
+      
+                  <img class="logo_letras" src="imagem_como_jogar/logo_letras.png" alt="Logo" >
+      
+                  <table class="menu_personagens">
+      
+                          <tbody><tr>
+                          <td><a href="/Guia_de_Introdu%C3%A7%C3%A3o" title="Guia de Introdução">Guia de<br>Introdução</a>
+                          </td>
+                          <td><a class="mw-selflink selflink">O jogador</a>
+                          </td>
+                          <td><a href="/Op%C3%A7%C3%B5es" title="Opções">Opções</a>
+                          </td>
+                          <td><a href="/Controles" title="Controles">Controles</a>
+                          </td>
+                          <td><a href="/Controles_m%C3%B3veis" title="Controles móveis">Controles<br>móveis</a>
+                          </td>
+                          <td><a href="/Sa%C3%BAde" title="Saúde">Saúde</a>
+                          </td>
+                          <td><a href="/Energia" title="Energia">Energia</a>
+                          </td>
+                          <td class="borda_td"><a href="/Habilidades" title="Habilidades">Habilidades</a>
+                          </td>
+                          </tr>
+                      </tbody>
+                  </table>
+      
+                  
+          </div>
+          </main>
+      
+          <footer class="rodape">
+      
+            <div class="div_rodape">
+          
+            
+            <ul class="ul_rodape1">
+            <li class="rodape_li">Mateus Oliveira Milane</li>
+            <li class="rodape_li">Marco Antônio Machado</li>
+            <li class="rodape_li">Isabela Aparecida Zamarco</li>
+            <li class="rodape_li">Nathan de Carvalho Cavaeiro</li>
+            <li class="rodape_li">Cauã Vitor Viotto</li>
+            <li class="rodape_li">Maria Beatriz G. M. da Silva</li>
+            </ul>
+                  
+                  <hr class="linha_rodape">
+                  
+             
+            <div class="imagem_rodape"> 
+            <a href="https://www.eletromococa.com.br/" target="_blank" rel="noopener noreferrer"><img class="etec_rodape" src="../imagem/etec_eletro.jpg" alt="etec_eletro"></a>
+            <a href="https://gamemaker.io/pt-BR" target="_blank" rel="noopener noreferrer"><img class="game_maker" src="../imagem/game_maker.png" alt="game_maker"></a>
+            <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img class="studio_code" src="../imagem/visual_studio_code.png" alt="studio_code"></a>
+            </div>
+          
+            <hr class="linha_rodape">
+          
+            <div class="imagem_rodape2">
+            <a href="https://www.devmedia.com.br/primeiros-passos-no-html5-javascript-e-css3/25647" target="_blank" rel="noopener noreferrer"><img class="linguagens" src="../imagem/html_css_javascript.png" alt="linguagens"></a>
+            <a href="https://manual-br.yoyogames.com/GameMaker_Language/GameMaker_Language_Index.htm" target="_blank" rel="noopener noreferrer"><img class="gml_linguagem" src="../imagem/gml_linguagem.png" alt="linguagens"></a>
+            </div>
+          
+          <!--<div class="h2_desenvolvido">
+            <h2 class="h2_rodape">Desenvolvido por:</h2>
+          </div>-->
+          
+          </div>
+          </footer>
+      
+          <script src="../pesquisa.js"></script>
+      </body>
+      </html>
